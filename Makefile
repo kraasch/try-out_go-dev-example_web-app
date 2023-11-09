@@ -1,4 +1,7 @@
 
+clean:
+	rm -f *.txt
+
 run:
 	bash ./run.sh
 
